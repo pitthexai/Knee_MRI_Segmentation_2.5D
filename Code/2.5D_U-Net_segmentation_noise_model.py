@@ -319,5 +319,4 @@ def test_model_and_save_probs(test_loader, model, save_dir):
     print(f"Test Dice:  {mean_dice:.4f}")
     print(f"Saved softmax probs to: {save_dir}")
 
-# Execute test
 test_model_and_save_probs(test_loader, model, TEST_SAVE_DIR)
