@@ -96,18 +96,18 @@ def fuse_probs_and_evaluate(test_loader, prob_dirs_256, prob_dirs_512, num_class
 # Transforms
 # Train/val has a light Gaussian blur augmentation.
 train_val_transform = transforms.Compose([
-        transforms.Resize((INPUT_SIZE)),
+        transforms.Resize((512, 512)),
         transforms.ToTensor(),
         T.GaussianBlur(5, sigma=0.15),
     ])
 
 test_transform = transforms.Compose([
-        transforms.Resize((INPUT_SIZE)),
+        transforms.Resize((512, 512)),
         transforms.ToTensor(),
     ])
 
 label_transform = transforms.Compose([
-        transforms.Resize((INPUT_SIZE), interpolation=transforms.InterpolationMode.NEAREST),
+        transforms.Resize((512, 512), interpolation=transforms.InterpolationMode.NEAREST),
         transforms.PILToTensor(),
     ])
 
@@ -174,5 +174,5 @@ save_dirs_256 = ["/home/feg48/2.5D_seg/final_results/256_probs_5_0.15", "/home/f
 save_dirs_512 = ["/home/feg48/2.5D_seg/final_results/512_probs_5_0.15", "/home/feg48/2.5D_seg/final_results/512_probs_7_0.10"]
 
 
-fuse_probs_and_evaluate(test_loader_512, save_dirs_256, save_dirs_512)
+fuse_probs_and_evaluate(test_loader, save_dirs_256, save_dirs_512)
 
