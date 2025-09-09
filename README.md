@@ -75,7 +75,4 @@ This project uses T2-weighted sagittal MRI scans from the publicly available Ost
 
 Instructions for accessing the original dataset are available through the [[OAI website](https://nda.nih.gov/oai)].
 
-## Evaluation metrics
-Model performance was assessed using:
-* Mean Average Precision (mAP) to evaluate the localization accuracy of the YOLOv11 detection.
-* Intersection over Union (IoU) and Dice Similarity Coefficient (DSC) to assess segmentation accuracy.
+
