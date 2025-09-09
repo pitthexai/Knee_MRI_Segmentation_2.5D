@@ -29,7 +29,7 @@
 
 ### Citation:
 
-<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Nature-Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+<p align="justify">This contribution is fully described in a manuscript currently under review at <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>. 
 
   ```
   @article{siddiqui2024fair,
