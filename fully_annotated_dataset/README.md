@@ -1,1 +1,0 @@
-# Annotated dataset folder
