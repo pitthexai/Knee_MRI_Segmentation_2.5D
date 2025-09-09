@@ -23,7 +23,7 @@
 
 ### KneeXNet-2.5D: App Interface 
 
-![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
+![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/app.png  "The software app")
 </p>
 <p>
 </p>
