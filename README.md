@@ -21,6 +21,13 @@
 <p>
 </p>
 
+### KneeXNet-2.5D: App Interface 
+
+![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
+</p>
+<p>
+</p>
+
 ### Osteoarthritis Initiative (OAI) dataset: 
 <p>The authors thank the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> for the datasets utilized in this research contribution.</p>
 
