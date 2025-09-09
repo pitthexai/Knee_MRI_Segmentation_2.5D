@@ -16,7 +16,7 @@
 
 ### The proposed computational pipeline:
 
-![alt text](https://github.com/pitthexai/AI_Fairness_in_Hip_and_Knee_Bony_Anatomy_Segmentation/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
+![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
 </p>
 <p>
 </p>
