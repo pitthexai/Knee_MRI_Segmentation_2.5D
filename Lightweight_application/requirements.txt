@@ -1,0 +1,10 @@
+streamlit==1.47.0
+torch==2.7.1
+torchvision==0.22.1
+segmentation_models_pytorch @ git+https://github.com/qubvel/segmentation_models.pytorch@14efd6b4701ff69d61e00d2dcedae05b00957fdf
+opencv-python==4.12.0.88
+numpy==2.2.6
+Pillow==11.3.0
+tqdm==4.67.1
+matplotlib==3.10.3
+
