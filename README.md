@@ -22,7 +22,7 @@
 </p>
 
 ### Osteoarthritis Initiative (OAI) dataset: 
-<p>The entire dataset analyzed during the current study is publicly available at the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a>.</p>
+<p>The authors thank the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> for the datasets utilized in this research contribution.</p>
 
 ### Acknowledgements:
 <p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by <a href="https://www.oracle.com/research" target="_blank">Oracle for Research</a>. Additionally, this work was also supported by the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health (UL1TR001857). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the Oracle for Research and/or the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health. The authors gratefully acknowledge the support of Oracle for Research, the University of Pittsburgh Clinical and Translational Science Institute, and the National Institutes of Health. The authors of the paper also thank the NIH National Institute of Aging for making the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> available for open scientific research. </p>
