@@ -1,10 +1,17 @@
 #  Knee_MRI_Segmentation_2.5D
-<p align="justify">This GitHub repository includes all Python codes, annotation guideline, fully annotated imaging dataset, AI models, and a lightweight software applicationt to offer a clinically oriented and explainable deep learning framework for accurate and efficient knee cartilage and meniscus segmentation in sagittal MRIs. Unlike traditional 3D segmentation methods, the proposed model employs a 2.5D architecture to capture the inter-slice spatial context, achieving high segmentation accuracy while maintaining computational efficiency and optimal resource utilization. To enable open scientific research and ensure reproducibility, we have made this GitHub repository publicly and freely available for any research and educational purposes. 
+<p align="justify">This GitHub repository includes all Python codes, annotation guideline, fully annotated imaging dataset, AI models, and a lightweight software applicationt to offer a clinically oriented and explainable deep learning framework, namely KneeXNet-2.5D, for accurate and efficient knee cartilage and meniscus segmentation in sagittal MRIs. Unlike traditional 3D segmentation methods, the proposed model employs a 2.5D architecture to capture the inter-slice spatial context, achieving high segmentation accuracy while maintaining computational efficiency and optimal resource utilization. To enable open scientific research and ensure reproducibility, we have made this GitHub repository publicly and freely available for any research and educational purposes. 
 </p>
 
 ### Directory Descriptions:
 + <p align="justify"><strong>Code:</strong> This directory contains all the Python code we implemented to carry out the study.</p>
-+ <p align="justify"><strong>Sample_Dataset:</strong> This directory covers a sample imaging dataset that includes both plain radiographs and the gold-standard manual segmentation.</p>
++ <p align="justify"><strong>Annotation_guideline:</strong> This directory contains the annotation guidelines developed by domain experts for creating manual segmentation masks. </p>
++ <p align="justify"><strong>Fully_annotated_dataset:</strong> This directory contains the fully annotated imaging dataset used in this study, featuring the gold-standard manual segmentations.</p>
++ <p align="justify"><strong>Lightweight_application:</strong> This directory includes a lightweight, interactive software application designed to deploy KneeXNet-2.5D in both clinical and research settings.</p>
++ <p align="justify"><strong>Models:</strong> This directory includes all AI models developed for this study.</p>
+
+
+
+
 
 
 ### The proposed computational pipeline:
