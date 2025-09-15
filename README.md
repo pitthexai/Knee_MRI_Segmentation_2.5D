@@ -28,7 +28,7 @@
 <p>
 </p>
 
-### Osteoarthritis Initiative (OAI) dataset: 
+### The Osteoarthritis Initiative (OAI) Dataset: 
 <p>The authors thank the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> for the datasets utilized in this research contribution.</p>
 
 ### Acknowledgements:
