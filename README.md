@@ -9,7 +9,7 @@
 - [Publications](#publications)
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
-- [Support By](#support-by)
+
 
 
 
