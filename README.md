@@ -51,7 +51,7 @@
 
 
 ### Publications
-+ <p align="justify"> Knee_MRI_Segmentation_2.5D </p>
++ <p align="justify"> KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation <i>(under review at npj Health Systems)</i> </p>
 
 
 
