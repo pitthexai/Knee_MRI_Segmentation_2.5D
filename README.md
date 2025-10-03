@@ -63,7 +63,6 @@
 <p align="justify">This contribution is fully described in our manuscript, entitled "<i>KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation</i>", which is currently under review at <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
 
 
-### Support By
 <p align="center">
   <a href="https://pitthexai.github.io/index.html" target="_blank">
     <img src="Figures/Pitthexai_QR.jpg" alt="Support QR Code" width="200"/>
