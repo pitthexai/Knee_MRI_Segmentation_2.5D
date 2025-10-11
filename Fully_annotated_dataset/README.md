@@ -23,7 +23,7 @@ Steps:
 1. Visit the OAI Portal: https://nda.nih.gov/oai
 2. Create or log in to your NIH Data Archive (NDA) account.
 3. Request access to the OAI dataset and agree to its data use terms.
-4. Once approved, download baseline (00m) the knee MRI scans for the desired subjects.
+4. Once approved, download the baseline (00m) dataset and extract the knee MRI scans for the desired subjects.
 5. Match the MRI scans to the annotations using the filename convention above.
 
 ## Usage
