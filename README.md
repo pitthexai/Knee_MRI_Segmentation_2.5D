@@ -42,8 +42,10 @@
 ### KneeXNet-2.5D: App Interface 
 
 ![alt text](https://github.com/pitthexai/Knee_MRI_Segmentation_2.5D/blob/main/Figures/app.png  "The software app")
-</p>
-<p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rZD0lrhb_KE" target="_blank">
+     Click here to watch the demo video
+  </a>
 </p>
 
 ### The Osteoarthritis Initiative (OAI) Dataset
