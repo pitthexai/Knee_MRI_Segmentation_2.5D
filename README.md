@@ -53,8 +53,14 @@
 
 
 ### Publications
-+ <p align="justify"> KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation <i>(under review at npj Health Systems)</i> </p>
 
++ <p align="justify">
+
+KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation
+</a>.
+<i>npj Health Systems</i>, 2026. 
+<a href="https://www.nature.com/articles/s44401-026-00072-5" target="_blank">Read the paper</a>.
+</p>
 
 
 ### Acknowledgements
@@ -64,7 +70,6 @@
 
 <p align="justify">This contribution is fully described in our manuscript, entitled "<i>KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation</i>", published in <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>.
 Please cite this article if you use this repository or any part of this work.
-<a href="https://www.nature.com/articles/s44401-026-00072-5" target="_blank">Read the paper</a>.
 </p> 
 
 ```
