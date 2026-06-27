@@ -62,7 +62,25 @@
 
 ### Citation:
 
-<p align="justify">This contribution is fully described in our manuscript, entitled "<i>KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation</i>", which is currently under review at <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>. Any publication or use of this work should cite this manuscript accordingly.</p> 
+<p align="justify">This contribution is fully described in our manuscript, entitled "<i>KneeXNet-2.5D: A Clinically-Oriented and Explainable Deep Learning Framework for MRI-Based Knee Cartilage and Meniscus Segmentation</i>", published in <a href="https://www.nature.com/npjhealthsyst/" target="_blank">npj Health Systems</a>.
+Please cite this article if you use this repository or any part of this work.
+<a href="https://www.nature.com/articles/s44401-026-00072-5" target="_blank">Read the paper</a>.
+</p> 
+
+```
+@article{sanogo2026kneexnet,
+  title={KneeXNet-2.5 D: a clinically-oriented and explainable deep learning framework for MRI-based knee cartilage and meniscus segmentation},
+  author={Sanogo, Maimouna and Gao, Fengyi and Littlefield, Nickolas and Siddiqui, Ismaeel A and Carlson, Luke A and Rezaei, Amin and Bodanki, Pavan and Menezes, Zoe and Kanda, Abha and Abedian, Mehrnaz and others},
+  journal={npj Health Systems},
+  volume={3},
+  number={1},
+  pages={18},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
+
 
 
 <p align="center">
